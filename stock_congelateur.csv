@@ -1,37 +1,38 @@
-Nom,Catégorie,Nombre,Unité,Lieu,Date,Contenant
-Terrine de canard ,Plat cuisiné,1,Pièces,Îlot cuisine salé ,2026-03-01 15:33:41,Pyrex
-Haricots rouges ,Conserves,2,Pièces,Îlot cuisine salé ,2026-03-01 15:32:19,Conserves 
-Olives vertes ,Légumes ,1,Pièces,Îlot cuisine salé ,2026-03-01 15:31:55,Pyrex
-Sauce tomate cuisinée ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:31:26,Carton
-Concentré de tomate petit,Sauce,4,Pièces,Îlot cuisine salé ,2026-03-01 15:31:03,Conserves 
-Coulis tomates ,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:30:43,Carton
-Concentré de tomate moyen,Conserves,12,Pièces,Îlot cuisine salé ,2026-03-01 15:28:48,Conserves 
-Maïs petit,Conserves,4,Pièces,Îlot cuisine salé ,2026-03-01 15:28:09,Conserves 
-Maïs moyen,Conserves,2,Pièces,Îlot cuisine salé ,2026-03-01 15:27:53,Conserves 
-Marrons entiers,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:27:31,Conserves 
-Tomates séchées ,Légumes ,6,Pièces,Îlot cuisine salé ,2026-03-01 15:26:50,Carton
-Sauce chinoise ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:23:43,Plastique 
-Guacamole ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:23:11,Pyrex
-Pickles ,Légumes ,1,Pièces,Îlot cuisine salé ,2026-03-01 15:22:57,Pyrex
-Sauce aigre douce ,Plats commerces ,1,Pièces,Îlot cuisine salé ,2026-03-01 15:22:35,Pyrex
-Tomates séchées huile,Légumes ,1,Pièces,Îlot cuisine salé ,2026-03-01 15:22:08,Pyrex
-Pesto rouge,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:21:45,Pyrex
-Tapenade,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:21:30,Pyrex
-Câpres,Légumes ,1,Pièces,Îlot cuisine salé ,2026-03-01 15:21:00,Pyrex
-Pesto vert ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:20:32,Pyrex
-Sauce bruschetta ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:20:09,Pyrex
-Confit d'oignons ,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:19:45,Pyrex
-Confit de figues ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:18:14,Pyrex
-Eau de coco,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:17:42,Carton
-Sauce salsa épicée ,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:16:46,Pyrex
-Sauce tex mex,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:16:21,Pyrex
-Sauce fajitas ,Conserves,2,Pièces,Îlot cuisine salé ,2026-03-01 15:15:57,Pyrex
-Sauce salsa barbecue ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:15:32,Pyrex
-Sauce salsa fromage ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:15:16,Pyrex
-Haricots sauce tomate,Conserves,2,Pièces,Îlot cuisine salé ,2026-03-01 15:14:54,Pyrex
-Sauce soja,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:14:33,Pyrex
-Moutarde américaine ,Sauce,1,Pièces,Îlot cuisine salé ,2026-03-01 15:14:12,Pyrex
-Lait de coco ,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:13:45,Pyrex
-Cornichons ,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:11:54,Pyrex
-Sauce Alger ,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:11:15,Pyrex
-Sauce barbecue ,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:10:36,Pyrex
+Nom,Catégorie,Contenant,Lieu,Nombre,Unité,Date
+Tomates pelées ,Légumes ,Conserves ,Îlot cuisine salé ,4,Pièces,2026-03-01 15:35:23
+Terrine de canard ,Plat cuisiné,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:33:41
+Haricots rouges ,Conserves,Conserves ,Îlot cuisine salé ,2,Pièces,2026-03-01 15:32:19
+Olives vertes ,Légumes ,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:31:55
+Sauce tomate cuisinée ,Sauce,Carton,Îlot cuisine salé ,1,Pièces,2026-03-01 15:31:26
+Concentré de tomate petit,Sauce,Conserves ,Îlot cuisine salé ,4,Pièces,2026-03-01 15:31:03
+Coulis tomates ,Sauce,Carton,Îlot cuisine salé ,2,Pièces,2026-03-01 15:30:43
+Concentré de tomate moyen,Conserves,Conserves ,Îlot cuisine salé ,12,Pièces,2026-03-01 15:28:48
+Maïs petit,Conserves,Conserves ,Îlot cuisine salé ,4,Pièces,2026-03-01 15:28:09
+Maïs moyen,Conserves,Conserves ,Îlot cuisine salé ,2,Pièces,2026-03-01 15:27:53
+Marrons entiers,Conserves,Conserves ,Îlot cuisine salé ,1,Pièces,2026-03-01 15:27:31
+Tomates séchées ,Légumes ,Carton,Îlot cuisine salé ,6,Pièces,2026-03-01 15:26:50
+Sauce chinoise ,Sauce,Plastique ,Îlot cuisine salé ,1,Pièces,2026-03-01 15:23:43
+Guacamole ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:23:11
+Pickles ,Légumes ,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:22:57
+Sauce aigre douce ,Plats commerces ,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:22:35
+Tomates séchées huile,Légumes ,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:22:08
+Pesto rouge,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:21:45
+Tapenade,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:21:30
+Câpres,Légumes ,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:21:00
+Pesto vert ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:20:32
+Sauce bruschetta ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:20:09
+Confit d'oignons ,Sauce,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:19:45
+Confit de figues ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:18:14
+Eau de coco,Conserves,Carton,Îlot cuisine salé ,1,Pièces,2026-03-01 15:17:42
+Sauce salsa épicée ,Conserves,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:16:46
+Sauce tex mex,Conserves,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:16:21
+Sauce fajitas ,Conserves,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:15:57
+Sauce salsa barbecue ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:15:32
+Sauce salsa fromage ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:15:16
+Haricots sauce tomate,Conserves,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:14:54
+Sauce soja,Sauce,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:14:33
+Moutarde américaine ,Sauce,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:14:12
+Lait de coco ,Conserves,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:13:45
+Cornichons ,Conserves,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:11:54
+Sauce Alger ,Sauce,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:11:15
+Sauce barbecue ,Sauce,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:10:36
