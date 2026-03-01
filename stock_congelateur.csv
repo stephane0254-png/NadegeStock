@@ -1,4 +1,5 @@
-Nom,Catégorie,Nombre,Unité,Lieu,Date,Contenant
-Cornichons ,Conserves,1,Pièces,Îlot cuisine salé ,2026-03-01 15:11:54,Pyrex
-Sauce Alger ,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:11:15,Pyrex
-Sauce barbecue ,Sauce,2,Pièces,Îlot cuisine salé ,2026-03-01 15:10:36,Pyrex
+Nom,Catégorie,Contenant,Lieu,Nombre,Unité,Date
+Lait de coco ,Conserves,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:13:45
+Cornichons ,Conserves,Pyrex,Îlot cuisine salé ,1,Pièces,2026-03-01 15:11:54
+Sauce Alger ,Sauce,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:11:15
+Sauce barbecue ,Sauce,Pyrex,Îlot cuisine salé ,2,Pièces,2026-03-01 15:10:36
